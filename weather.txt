@@ -1,0 +1,5 @@
+City Name : Jaffna
+Current temperature is : 28.430000000000007
+Current weather desc : light rain
+Current Humidity : 80%
+Current wind speed :9.2kmph
